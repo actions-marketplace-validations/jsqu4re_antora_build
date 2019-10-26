@@ -1,7 +1,5 @@
 name: 'Generate Antora Site'
 description: 'Generate an antora site'
-inputs:
-outputs:
 runs:
   using: 'docker'
   image: 'Dockerfile'
