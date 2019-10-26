@@ -1,4 +1,4 @@
-name: 'Generate Site'
+name: 'Generate Antora Site'
 description: 'Generate an antora site'
 inputs:
 outputs:
