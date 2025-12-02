@@ -1,5 +1,5 @@
-name: 'Generate Antora Site'
-description: 'Generate an antora site'
+name: 'Build Antora Site with Docker'
+description: 'Build an Antora documentation site using Docker. This action runs Antora in a Docker container to generate your site from antora.yml or site.yml.'
 runs:
   using: 'docker'
   image: 'Dockerfile'
